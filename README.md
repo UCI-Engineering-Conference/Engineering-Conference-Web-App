@@ -1,5 +1,8 @@
 # UCI Engineering Conference Web App
 
+![build](https://github.com/UCI-Engineering-Conference/Engineering-Conference-Web-App/workflows/build/badge.svg)
+[![codecov](https://codecov.io/gh/UCI-Engineering-Conference/Engineering-Conference-Web-App/branch/master/graph/badge.svg)](https://codecov.io/gh/UCI-Engineering-Conference/Engineering-Conference-Web-App)
+
 ## Project setup
 
 ```
